@@ -59,6 +59,7 @@ The dashboard enables stakeholders to quickly understand revenue trends, custome
 
 ## Dashboard 
 <img width="1173" height="609" alt="Screenshot 2026-04-08 180109" src="https://github.com/user-attachments/assets/30b6d2db-72a4-49e4-acd4-87910fc0c5ef" />
+<a href="https://github.com/mre38/Stratton-Heights-Sales-Dashboard/blob/main/Stratton-Heights-Sales-Dashboard.xlsx">View Dashboard</a>
 
 
 ## Key Insights
